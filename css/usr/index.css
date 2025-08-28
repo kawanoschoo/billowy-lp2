@@ -447,6 +447,7 @@ header .small {
 .square {
   width: 100%;
   height: auto;
+  margin-top: 15px;
 }
 .square img {
   width: 100%;
