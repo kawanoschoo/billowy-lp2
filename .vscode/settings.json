@@ -4,8 +4,7 @@
         {
             "format": "expanded",
             "extensionName": ".css",
-            "savePath": "/css/usr",
-            "liveServer.settings.useLocalIp": true
+            "savePath": "/css/usr"
         }
     ]
 }
