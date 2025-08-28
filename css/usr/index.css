@@ -1190,6 +1190,11 @@ header .small {
   width: 100%;
   max-width: 100px;
 }
+@media screen and (max-width: 560px) {
+  .support .wrap .img img {
+    max-width: 70px;
+  }
+}
 .support .wrap .txt {
   width: 70%;
   display: block;

@@ -1341,6 +1341,9 @@ $orange:#d57b2f;
             img {
                 width: 100%;
                 max-width: 100px;
+                @include mq(sp) {
+                    max-width: 70px;
+                }
             }
         }
         .txt {
